@@ -1,0 +1,9 @@
+第16章剩余部分
+第10章剩余部分
+第14章剩余部分
+
+http://www.cnblogs.com/D-Tec/archive/2013/03/01/2939254.html
+
+http://blog.csdn.net/changtao381/article/details/8721654
+
+《linux编程从入门到精通》,《Linux C程序设计大全》,《unix环境高级编程》
